@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+.caixa{
+    width: 60vw;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: transparent;
+    box-shadow: 14px 22px 27px 2px rgba(202, 201, 200, 0.46);
+}
